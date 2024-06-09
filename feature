@@ -1,6 +1,6 @@
 
 A(){
-return "5"
+return 5
 }
 b(){
 return spi
