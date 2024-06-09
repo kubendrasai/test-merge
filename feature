@@ -7,7 +7,7 @@ else
 
 }
 b(){
-    hello1
+    hello12
 return spi
 }
 
