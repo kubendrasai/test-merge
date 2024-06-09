@@ -1,10 +1,13 @@
 
 A(){
-    hello
-return "5"
+
+return 5
+else
+"123"
+
 }
 b(){
     hello
-return "spi"
+return spi
 }
 
