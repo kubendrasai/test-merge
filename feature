@@ -1,8 +1,10 @@
 
 A(){
-return 5
+    hello
+return "5"
 }
 b(){
-return spi
+    hello
+return "spi"
 }
 
